@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# js-Dice 🎲
 
-You can use the [editor on GitHub](https://github.com/prajwaltimsina/js-Dicee/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**js-Dice** is a simple virtual dice-rolling web app built with HTML, CSS, and JavaScript.  
+Press CTRL + R (or refresh the page) to roll the dice — handy for games, randomization, or just fun.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 🎯 Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🎲 Virtual dice roll on user interaction (button click / key press)  
+- 🔄 Random number generation for dice outcomes (e.g. 1–6 for a standard die)  
+- 📦 Simple, clean structure using vanilla web technologies (no external libraries)  
+- 🎨 Easy to customize visuals — dice faces, number of dice, styling, etc.  
+- 🛠️ Lightweight and easy to extend
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 📁 Project Structure
 
-- Bulleted
-- List
+js-Dice/
+│── index.html # Main HTML page
+│── styles.css # CSS for dice visuals & layout
+│── index.js # JavaScript logic for dice roll & output
+│── images/ # Dice face images or other media assets (if any)
+│── README.md # Documentation (this file)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prajwaltimsina/js-Dicee/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
